@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+mappointsFile: "myFirstMap.mappoints"
+nMappoints: 0
+keyframesFile: "myFirstMap.keyframes"
+nKeyframes: 0
+featuresFile: "myFirstMap.features"
+nFeatures: 0
+Options: 2
+Options descriptions: [ FEATURES_FILE_NOT_DELIMITED ]
+cameraMatrices:
+   []
